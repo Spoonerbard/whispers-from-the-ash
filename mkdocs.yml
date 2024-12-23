@@ -4,7 +4,7 @@ nav:
   - Home: index.html
   - About: about.md
   - Contact: contact.md
-  
+  - 
 plugins:
   - search
   - obsidian-support:
