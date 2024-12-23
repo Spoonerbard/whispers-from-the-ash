@@ -1,0 +1,5 @@
+{
+    "python.defaultInterpreterPath": "\\\\wsl.localhost\\Ubuntu-20.04\\home\\echo\\anaconda3\\envs\\testbed\\bin\\python",
+    "python.terminal.activateEnvironment": true,
+  }
+  

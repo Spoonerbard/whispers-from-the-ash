@@ -1,17 +1,7 @@
 site_name: whispers-from-the-ash  # Replace with your vault name
-theme: material               # Use the Material theme (highly recommended)
+theme: readthedocs               
 plugins:
-plugins:
-  - pub-obsidian:
-    callouts:
-      enabled: true
-      indentation: spaces
-    comments:
-      enabled: true
-      inject_as_html: false
-    obsidian_dir: .obsidian
-    templates_dir: _templates
   - search
-  - obsidian:
+  - obsidian-support:
       use_shields: true   # Display backlinks and other metadata
       home_page: index    # Specify your home page (optional)
