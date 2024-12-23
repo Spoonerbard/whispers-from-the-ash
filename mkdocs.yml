@@ -1,5 +1,10 @@
 site_name: whispers-from-the-ash  # Replace with your vault name
-theme: readthedocs               
+theme: readthedocs
+nav:
+  - Home: index.html
+  - About: about.md
+  - Contact: contact.md
+  
 plugins:
   - search
   - obsidian-support:
