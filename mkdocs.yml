@@ -1,6 +1,16 @@
 site_name: whispers-from-the-ash  # Replace with your vault name
 theme: material               # Use the Material theme (highly recommended)
 plugins:
+plugins:
+  - pub-obsidian:
+    callouts:
+      enabled: true
+      indentation: spaces
+    comments:
+      enabled: true
+      inject_as_html: false
+    obsidian_dir: .obsidian
+    templates_dir: _templates
   - search
   - obsidian:
       use_shields: true   # Display backlinks and other metadata
