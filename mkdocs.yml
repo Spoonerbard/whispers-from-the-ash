@@ -1,10 +1,9 @@
 site_name: whispers-from-the-ash  
 theme: readthedocs
 nav:
-  - Home: index.html
+  - Home: home.md
   - About: about.md
-  - Contact: contact.md
-  
+  - index: index.md
 plugins:
   - search
   - obsidian-support:
