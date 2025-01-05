@@ -1,0 +1,10 @@
+Description: This small, petrified seed is a dull grey color, etched with swirling patterns that seem to shift when observed closely. It feels unusually heavy for its size. When held, a faint, almost imperceptible hum can be felt, and those sensitive to magic might detect a powerful aura of both life and sorrow emanating from it.  
+  
+Effect:  
+  
+    Rapid Growth: Once per day, the user can plant the seed in any soil, dirt, sand, ash, or other porous material. Within one minute, a twenty-foot-tall tree rapidly sprouts from the seed. The tree's species is determined by the type of soil it is planted in, but it will always be a hardy, resilient variety. While it is a mundane tree in most senses, it carries the faint magical aura of the seed that birthed it.  
+    Psychic Scream: The moment the tree begins to grow, it emits a powerful psychic scream. This scream is not audible in the traditional sense but is heard directly in the minds of all creatures within a one-mile radius. FURTHER INFORMATION WITHHELD BY ORDER OF THE CHIEF HOME OFFICER OF HOUSE THARASHK.  
+        Location Beacon: The scream reveals the exact location of the tree to all who hear it. They instinctively know the direction and distance to the tree's location.  
+        Intensity: The intensity of the scream might vary depending on the environment. In areas heavily affected by the Mourning, the scream might be amplified or distorted.  
+    Sturdy Growth: The tree, despite its rapid growth, is exceptionally sturdy. It can support the weight of up to three Medium creatures at a time, even on its highest branches (up to twenty feet). The branches are thick and strong, providing secure handholds and footholds.  
+    Recharge: The seed recharges its magic at each dawn, becoming dormant and inert until then. The tree, once grown, remains until it is destroyed or withers naturally, which in the Mournland, could take days or weeks depending on th

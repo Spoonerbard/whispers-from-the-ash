@@ -1,0 +1,8 @@
+
+1. **[[Borin "Stonebeard" Grimcleaver]] (Leader):**
+    
+    - **Appearance:** A stout, middle-aged dwarf with a long, braided beard streaked with grey, a gruff demeanor, and a missing left eye covered by a worn leather patch. He wears practical mining clothes and carries a heavy, [[Croydonite]]-tipped war pick that he's not afraid to use. He has a large scar that runs down the left side of his face. He often has a lit pipe in his mouth, but will take it out when speaking.
+    - **Personality:** [[Borin]] is a pragmatic and ruthless leader, but he also cares deeply for his fellow Steel Stoners, whom he considers his family. He's driven by a desire for wealth and independence, but also by a deep-seated resentment towards [[House Kundarak]]. He is an expert at smuggling and evading the law.
+    - **Motivation:** To make a fortune from [[Croydonite]] mining, establish the Steel Stoners as a powerful force in [[the Mournland]], and get revenge on House Kundarak. He is always on the lookout for more precious resources, and will often question the party about what they have found in [[the Mournland]].
+    - **Secret:** Borin is the one who masterminded the theft from House Kundarak. He knows exactly what they stole and why it's so valuable, but he's keeping that information to himself, even from his own people. He is being blackmailed by someone who knows his secret.
+    - **Quote:** "Kundarak thinks they own every rock and pebble in Eberron. We're here to prove 'em wrong. And make a hefty profit while we're at it."
