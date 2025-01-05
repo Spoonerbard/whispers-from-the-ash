@@ -1,4 +1,4 @@
-# Hello World
+
 
 [The Town of Sanctuary](the_town_of_sanctuary.md)
 
