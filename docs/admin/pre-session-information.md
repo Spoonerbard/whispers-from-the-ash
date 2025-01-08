@@ -23,6 +23,7 @@ This campaign will be a bit different from a traditional, ongoing storyline. In 
   * **Sourcebooks:** We'll be sticking to official published material. **No homebrew content, please.** If you want to use any options from *Tasha's Cauldron of Everything*, please let me know in advance so we can discuss it.
   * **Starting Gear:** You'll start with standard starting equipment for your class, plus **400 GP** to spend on additional gear. You can spend this gold before the first session. Just ask if you need help with prices, especially for items unique to Eberron, like those from House Cannith.
   * **Magic Item:** You also get to choose **one common magic item** to start with. Let me know your choice, and we'll make sure it fits within the campaign's setting.
+  * **Backstories:** You can use originally created
 
 **House Rules:**
 
@@ -30,7 +31,7 @@ This campaign will be a bit different from a traditional, ongoing storyline. In 
   * **Critical Hits:** On a critical hit, roll the relevant damage dice, add your modifiers, and then multiply the total by two.
   * **Fumbles:**  Rolling a natural 1 on an attack roll will result in a fumble. This might mean dropping your weapon, hitting an ally by mistake, or some other unfortunate (and potentially humorous) consequence. I'll determine the effect based on the situation.
   * **Short Rests:** You can spend hit dice during a short rest to regain hit points. Roll the hit dice you choose to spend, and add your Constitution modifier to each roll. The total is how many hit points you regain.
-  * **Long Rests:** You regain all your hit dice on a long rest. However, be warned: long resting in the Mournland is extremely dangerous without a secure location. We'll cover that in more detail during the first session.
+  * **Long Rests:** You regain all your hit dice on a long rest. However, be warned: long resting in the Mournland is extremely dangerous without a secure location.
   * **Materials and Components:** Unless otherwise stated, assume that your character has any mundane equipment they need. Feel free to ask if you are unsure.
 
 **Safety and Inclusivity:**
