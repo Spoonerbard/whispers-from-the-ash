@@ -1,8 +1,7 @@
-**Subject: Welcome to the Mournland - Your West Marches Adventure Awaits\!**
 
-Hey everyone,
+*Pre-Session-Information*
 
-Thanks for your interest in joining our D\&D 5e West Marches campaign\! I'm excited to explore the mysteries and dangers of the Mournland with you.
+Thanks for your interest in joining our D&D 5e West Marches campaign\! I'm excited to explore the mysteries and dangers of the Mournland with you.
 
 This campaign will be a bit different from a traditional, ongoing storyline. In a West Marches game, the focus is on **player-driven exploration** in a shared world. Think of it like an adventuring guild based in the town of **Salvation**, poised on the edge of the Mournland – a vast, magically-warped wasteland that was once the magically and technologically advance nation of Cyre.
 
@@ -23,7 +22,7 @@ This campaign will be a bit different from a traditional, ongoing storyline. In 
   * **Sourcebooks:** We'll be sticking to official published material. **No homebrew content, please.** If you want to use any options from *Tasha's Cauldron of Everything*, please let me know in advance so we can discuss it.
   * **Starting Gear:** You'll start with standard starting equipment for your class, plus **400 GP** to spend on additional gear. You can spend this gold before the first session. Just ask if you need help with prices, especially for items unique to Eberron, like those from House Cannith.
   * **Magic Item:** You also get to choose **one common magic item** to start with. Let me know your choice, and we'll make sure it fits within the campaign's setting.
-  * **Backstories:** You can use originally created
+  * **Backstories:** You can use the backgrounds from the 5e rulesets, or write your own but please keep to a maximum of two pages A4, the DM has a day job.
 
 **House Rules:**
 
@@ -65,4 +64,4 @@ Our game takes place in **Eberron**, a world of magic, technology, and intrigue.
 I'm really looking forward to playing with you all. If you have any questions, feel free to ask\!
 
 
-[back home](index.md)
+[back home](index.md)0
