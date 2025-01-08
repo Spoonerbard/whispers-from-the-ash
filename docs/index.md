@@ -1,6 +1,6 @@
 
 # Info
-[Pre-Session Information](pre-session-information.md)
+[Pre-Session Information](admin/pre-session-information.md)
 
 
 # Active Quests
@@ -10,4 +10,4 @@
 
 # Recaps
 
-[Recap Session One](recap/Session_1_Into_the_grey.md)
+[Recap Session One](recaps/Session_1_Into_the_grey.md)
