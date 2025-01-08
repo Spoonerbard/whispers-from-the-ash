@@ -16,7 +16,7 @@ jobs:
           python-version: '3.x'
       - name: Install dependencies
         run: |
-          pip install mkdocs mkdocs-material mkdocs-obsidian-support-plugins
+          pip install mkdocs
       - name: Build the site
         run: mkdocs build
       - name: Deploy to GitHub Pages
