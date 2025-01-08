@@ -65,4 +65,4 @@ Our game takes place in **Eberron**, a world of magic, technology, and intrigue.
 I'm really looking forward to playing with you all. If you have any questions, feel free to ask\!
 
 
-[back home](index.md)a
+[back home](index.md)
