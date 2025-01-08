@@ -21,11 +21,6 @@ jobs:
     - name: Install pip dependencies
       run: pip install -r requirements.txt
 
-    - name: Create conda environment
-      run: |
-        conda create -n my_env --file requirements.txt
-        conda activate my_env
-
     - name: Build MkDocs site
       run: mkdocs build
 
