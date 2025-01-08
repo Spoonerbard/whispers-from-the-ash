@@ -47,4 +47,4 @@ During the night, under the cover of the storm, the barrels containing the warfo
 The next morning, the storm had passed, leaving behind an eerie calm. The party returned to Salvation with Anya's two companions in tow, the mystery of their altered state and the animated barrels heavy on their minds.
 
 
-[back home](../admin/index.md)
+[back home](../index.md)
