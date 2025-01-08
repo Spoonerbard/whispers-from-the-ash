@@ -5,7 +5,7 @@
 
 # Active Quests
 
-[anya missing party quest](anya_missing_party_quest.md)
+[anya missing party quest](quests/anya_missing_party_quest.md)
 
 
 # Recaps
