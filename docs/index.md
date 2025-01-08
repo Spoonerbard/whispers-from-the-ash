@@ -1,14 +1,13 @@
 
+# Info
+[Pre-Session Information](pre-session-information.md)
 
-[Pre-Session Information]
 
-
-[Recap Session One](recap/Session_1_Into_the_grey.md)
-
-[The Town of Sanctuary](the_town_of_sanctuary.md)
-
-[Troxler's Terrific Items of Troublecausing](cover.md)
-
-[Shopping Wares](sample encounter.md)
+# Active Quests
 
 [anya missing party quest](anya_missing_party_quest.md)
+
+
+# Recaps
+
+[Recap Session One](recap/Session_1_Into_the_grey.md)
