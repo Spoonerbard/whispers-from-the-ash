@@ -28,7 +28,7 @@ jobs:
       - name: Create and activate conda environment
         run: |
           conda env create -f environment.yml
-          conda activate my_conda_env  # Replace with your environment name
+          conda activate testbed  # Replace with your environment name
 
       - name: Build MkDocs site
         run: mkdocs build
