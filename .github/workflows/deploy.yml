@@ -3,29 +3,38 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - gh-pages  # Trigger deployment on pushes to the main branch
+      - gh-pages  # Trigger deployment on pushes to the gh-pages branch
 
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v3
+      - name: Checkout code
+        uses: actions/checkout@v3
 
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.x' # Replace with your Python version
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x' # Replace with your Python version
 
-    - name: Install pip dependencies
-      run: pip install -r requirements.txt
+      - name: Set up Conda
+        uses: conda-incubator/setup-miniconda@v2
+        with:
+          auto-update-conda: true
+          channels: conda-forge,defaults # Add any other required channels
+          python-version: ${{ matrix.python-version }}
 
-    - name: Build MkDocs site
-      run: mkdocs build
+      - name: Create and activate conda environment
+        run: |
+          conda env create -f environment.yml
+          conda activate my_conda_env  # Replace with your environment name
 
-    - name: Deploy to GitHub Pages
-      uses: peaceiris/actions-gh-pages@v3
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./site
+      - name: Build MkDocs site
+        run: mkdocs build
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./site
