@@ -17,6 +17,12 @@ nav:
   - index: index.md
 plugins:
   - search
+  - autolinks
+  - ezlinks:
+      warn_ambiguities: {true|false}
+      wikilinks: {true|false}
+      reference_links: {true|false}
+  - callouts
   - obsidian-support:
       # use_shields: true   # Display backlinks and other metadata
       # home_page: index    # Specify your home page (optional)
