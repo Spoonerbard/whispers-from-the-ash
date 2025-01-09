@@ -1,5 +1,16 @@
 site_name: whispers-from-the-ash  
-theme: readthedocs
+theme: 
+  name: material
+  # palette toggle for automatic mode switch
+  - scheme: default
+    toggle:
+      icon: material/brightness-4
+      name: switch to dark mode
+      # palette toggle for dark mode
+  - scheme: slate
+    toggle:
+      icon: material/brightness-7
+      name: switch to light mode
 nav:
   - Home: home.md
   - About: about.md
