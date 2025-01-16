@@ -1,9 +1,13 @@
+
+# Troxler's Wares 
+
 # Troxler's Temporary Weapon Infusions (Tier 1)
 *Rules for Infusions:*
 
 
 
 - **Activation:** Infusions are activated as a **bonus action**, and the effect applies to the weapon the character is currently holding.
+- **One at a time:** Unless otherwises stated, a weapon can only hold one infusion at a time. If a second is added the first one is dispelled.
 - **Duration:** The infusion lasts for the duration of **one combat encounter**.
 - **Dispelling:** If the weapon is dropped or discarded after the infusion is activated, the infusion is dispelled.
 - **Explosion:** On a natural 1 on an attack roll with the infused weapon, the infusion explodes. The wielder takes 1d4 damage of the infusion's type. The infusion is then lost.

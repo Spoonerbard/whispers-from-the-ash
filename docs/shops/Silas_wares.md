@@ -1,3 +1,6 @@
+
+# Silas' Wares
+
 **(Prices are generally 1.5x standard PHB prices due to the remote location and [[Silas]]'s. He might offer slight discounts for bulk purchases or to adventurers he deems trustworthy... or at least profitable to deal with.)**
 
 | Item                      | Cost           | Notes                                                                                                                                                                                                     |
