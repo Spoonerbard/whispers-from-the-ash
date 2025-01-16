@@ -21,4 +21,4 @@
 
 # Recaps
 
-[Recap Session One - 04-01-2025](recaps/Session_1_Into_the_grey.md)
+[Recap Session One - 4th January 2025](recaps/Session_1_Into_the_Grey.md)
