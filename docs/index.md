@@ -17,7 +17,11 @@
 
 # Active Quests
 
-[Anya's Missing Party](quests/anya_missing_party_quest.md)
+[Anya's Missing Party](quests/active_quests/anya_missing_party_quest.md)
+
+[The Water Sample](quests/active_quests/water_sample_from_the_lake.md)
+
+[The Lightning Rail Station Ruins](quests/active_quests/)
 
 # Recaps
 
