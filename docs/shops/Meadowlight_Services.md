@@ -32,5 +32,5 @@
 - **Holy Water (25 gp per flask):** Created by Kai through a simple ritual. It's effective against undead and fiends, but the potency is somewhat diminished due to his inexperience and the Mournland's influence. Deals 1d4 radiant damage to undead and fiends, instead of the usual 2d6.
 - **Herbal Poultices (5 gp each):** These can be applied to wounds to provide mundane healing, restoring 1d4 hit points after one minute. They can only be used once per day.
 - **Antitoxin (50 gp per vial):** A basic antitoxin, effective against common poisons but not against magical or potent ones.
-- **Incense of Arawai (10 gp per stick):** This incense, when burned, creates a sense of calm and peace. It provides advantage on saving throws against fear effects for one hour. While it is lit, it provides a faint light, in a 5ft radius.
-- **Symbol of Arawai (5 gp):** A small, wooden holy symbol of Arawai, carved by Kai. It doesn't have any inherent magical properties but serves as a focus for prayer and a symbol of hope.
+- **Incense of Onatar (10 gp per stick):** This incense, when burned, creates a sense of calm and peace. It provides advantage on saving throws against fear effects for one hour. While it is lit, it provides a faint light, in a 5ft radius.
+- **Symbol of Onatar (5 gp):** A small, wooden holy symbol of Onatar, carved by Kai. It doesn't have any inherent magical properties but serves as a focus for prayer and a symbol of hope.
