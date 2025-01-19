@@ -22,3 +22,5 @@
 # Recaps
 
 [Recap Session One - 4th January 2025](recaps/Session_1_Into_the_Grey.md)
+
+[Recap Session Two - 19th January 2025](recaps/session_2_Water_Water_Everywhere.md)
