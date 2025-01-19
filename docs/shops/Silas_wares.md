@@ -69,7 +69,7 @@
 | Block and Tackle          | 15 gp          | A simple block and tackle made with poor quality rope.                                                                                                                                                    |
 | **Unique Items**          |                |                                                                                                                                                                                                           |
 | "The Scholar's Companion" | 50 gp          | A seemingly ordinary book filled with blank pages. However, a successful DC 15 Intelligence (Investigation) check reveals a hidden compartment containing a few pages of notes written in a complex code. |
-| ~"Wanderer's Compass"~      | ~75~ gp          | ~A tarnished silver compass that, instead of pointing north, always points towards the nearest source of strong magic. It's unreliable in the Mournland but could still be useful.~                         |
+| ~~"Wanderer's Compass"~~      | ~~75~~ gp          | ~~A tarnished silver compass that, instead of pointing north, always points towards the nearest source of strong magic. It's unreliable in the Mournland but could still be useful.~~                         |
 | "Mournland Memento"       | 25 gp          | A small, strangely shaped piece of metal salvaged from the Mournland. It's not Croydonite, but it has a faint magical aura. Its purpose is unknown.                                                       |
 
 **Services:**
