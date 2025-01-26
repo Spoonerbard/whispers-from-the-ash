@@ -3,6 +3,8 @@
 
 [Pre-Session Information](admin/pre-session-information.md)
 
+[the-adventuring-licenses](admin/the-adventuring-licenses.md)
+
 # NPCS
 
 [Salvation](npcs/Salvation_npcs.md)
