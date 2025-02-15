@@ -42,3 +42,6 @@
 
 [Session Three - 1st Feb 2025](recaps/session_3_Stop_and_Go.md)
 
+[Session Four - 15th Feb 2025](recaps/Session_4_The_Circus.md)
+
+

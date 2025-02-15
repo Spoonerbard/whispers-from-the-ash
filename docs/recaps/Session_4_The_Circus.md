@@ -3,7 +3,6 @@
 # Salvation's Circus
 
 
-
 The party, battered and weary from their recent expedition into the Mournlands and the perilous storm they endured, limped back into Salvation.  Despite their exhaustion, rest was not on the cards just yet. The vibrant and chaotic "Grand Menagerie of Monsters" circus had arrived in town, demanding their attention.
 
   
