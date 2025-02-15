@@ -1,7 +1,7 @@
 House Tharashk
 ================
 
-![[tharashk_embelm.webp]]
+
 
 House Tharashk, with its roots in the dwarven clans of the Ironroot Mountains, holds a unique and powerful position in Eberron.  They are renowned for their expertise in mining, metallurgy, and the Mark of Finding, which grants them exceptional tracking and locating abilities.  This expertise, combined with their shrewd business acumen, has allowed them to amass significant wealth and influence.
 

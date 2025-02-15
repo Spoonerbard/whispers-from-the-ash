@@ -23,7 +23,10 @@
 
 [Cleric Meadowlight](shops/Meadowlight_Services.md)
 
+
 # Active Quests
+
+[The Beasts of Old Letters](npcs/beasts_of_the_old_letters/index.md)
 
 [Anya's Missing Party](quests/active_quests/anya_missing_party_quest.md)
 
