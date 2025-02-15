@@ -59,6 +59,7 @@
 | **Lock (Simple):**                          | 2    | 25        | Troxler can create simple locks of various types (key, combination).                                  |
 | **Air Horn:**                               | 1    | 550       | A powerful horn that emits a deafening blast of sound. Deals 1d6 thunder damage to all creatures within 10 feet (DC 15 Constitution saving throw for half damage) and deafens them for 1 round on a failed save.                                                                                                                  |
 
+# magic scrolls
 
 
 [back home](index.md)

@@ -9,6 +9,12 @@
 
 [Salvation](npcs/Salvation_npcs.md)
 
+[House Tharashk](npcs/factions/house_tharashk.md)
+
+[The Order of The Silver Flame](npcs/factions/theorderofthesilverflame.md)
+
+[The Lord of Blades](npcs/factions/thelordofblades.md)
+
 # Shops
 
 [Silas, the General Store](shops/Silas_wares.md)
