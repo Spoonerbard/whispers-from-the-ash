@@ -44,4 +44,6 @@
 
 [Session Four - 15th Feb 2025](recaps/Session_4_The_Circus.md)
 
+# Inventory of Magic Items
 
+[Tier One](treasure/Inventory/Magic_Item/inventory)
