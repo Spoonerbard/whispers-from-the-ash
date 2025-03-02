@@ -30,6 +30,8 @@
 
 [Anya's Missing Party](quests/active_quests/anya_missing_party_quest.md)
 
+# Completed Quests
+
 [The Water Sample](quests/active_quests/water_sample_from_the_lake.md)
 
 [The Lightning Rail Station Ruins](quests/active_quests/)
@@ -44,6 +46,9 @@
 
 [Session Four - 15th Feb 2025](recaps/Session_4_The_Circus.md)
 
+[Session Five - 1st March 2025](recaps/Session_5_Eyes_In_The_Dark.md)
+
+
 # Inventory of Magic Items
 
-[Tier One](treasure/Inventory/Magic_Item/inventory)
+[Tier One](treasure/inventory/magic_items/index.md)
