@@ -22,7 +22,7 @@
 - 700gp
 
 ## Treasure: 
-- One Horning of Summoning.
+- One Horn of Summoning.
 - Healing Potions now for Sale from Troxler.
 - One Ring of Revivify
 - One Makeshift Gnoll Crossbow, two infusion slots, one fire infusion slot.
